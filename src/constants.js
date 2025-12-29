@@ -5,14 +5,14 @@
 export const COLORS = {
   // Light Mode Colors
   light: {
-    primary: "#10b981", // Emerald green
-    secondary: "#f59e0b", // Amber
+    primary: "#1610b9ff", // Emerald green
+    secondary: "#0bf522ff", // Amber
     accent: "#ec4899", // Pink
-    background: "#ffffff",
-    surface: "#f9fafb",
+    background: "#deb0dcff",
+    surface: "#2ab4beff",
     text: "#111827",
     textSecondary: "#6b7280",
-    border: "#e5e7eb",
+    border: "#d9e7c0ff",
   },
   // Dark Mode Colors
   dark: {
@@ -39,8 +39,8 @@ export const PERSONAL_INFO = {
 
   // Social Media Links
   social: {
-    github: "https://github.com/mounikaannem-cyber",
-    linkedin: "https://linkedin.com/in/mounikaanem",
+    github: "https://github.com/mounikaannem2006-cyber",
+    linkedin: "https://linkedin.com/in/annem-mounika-9aa322325",
     twitter: "https://twitter.com/yourusername",
   },
 
